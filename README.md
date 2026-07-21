@@ -28,8 +28,9 @@ ________________________________________
 
 📈 **Featured Projects (will be updated here soon)**
 
-**Cloud Service Health Monitor
-Python | Docker | Google Cloud Run | Cloud Scheduler | Cloud Monitoring**
+**Cloud Service Health Monitor**
+
+**Python | Docker | Google Cloud Run | Cloud Scheduler | Cloud Monitoring**
 
 A cloud-native monitoring platform that automatically checks service availability, records telemetry, and provides operational visibility.
 
@@ -39,8 +40,9 @@ Highlights:
 - Integrated cloud logging and monitoring
 - Built with production-style deployment workflows
 
-**High Performance Computing Projects
-C | pthreads | OpenMP | Parallel Computing**
+**High Performance Computing Projects**
+
+**C | pthreads | OpenMP | Parallel Computing**
 
 Collection of systems projects exploring performance optimization and parallel execution.
 
