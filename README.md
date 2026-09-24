@@ -1,5 +1,3 @@
-## Hey 👋
-
 <!--
 **crispylettuce101/crispylettuce101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,77 +13,99 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MS Computer Science student at Colorado School of Mines focused on building scalable software systems, cloud infrastructure, and data-driven applications.
+# Hey 👋
 
-I enjoy working on:
-- Backend engineering
-- Distributed systems
-- Cloud infrastructure
-- High-performance computing
-- Financial technology
+I'm a Master's student in Computer Science at Colorado School of Mines interested in building products and infrastructure at the intersection of **AI/ML, cloud computing, and software systems**.
 
-________________________________________
+Before graduate school, I worked in customer-facing technology roles at Google Fiber and Oracle, where I developed experience translating customer and business problems into technical solutions. That experience motivated me to deepen my engineering background and better understand how the systems and products I worked with are built.
 
-📈 **Featured Projects (will be updated here soon)**
+Today, I'm particularly interested in:
+- 🤖 AI/ML & LLM applications
+- ☁️ Cloud & distributed systems
+- ⚙️ Systems and infrastructure engineering
+- 🚀 Technical product development
+- ⚡ High-performance computing
 
-**Cloud Service Health Monitor**
+---
 
-**Python | Docker | Google Cloud Run | Cloud Scheduler | Cloud Monitoring**
+## 📈 Featured Projects
 
-A cloud-native monitoring platform that automatically checks service availability, records telemetry, and provides operational visibility.
+### ☁️ Cloud Service Health Monitor
 
-Highlights:
-- Containerized application deployed with Docker
-- Automated scheduled health checks
-- Integrated cloud logging and monitoring
-- Built with production-style deployment workflows
+**Python | FastAPI | Docker | Google Cloud Run | Cloud Scheduler | Cloud Monitoring | GitHub Actions**
 
-**High Performance Computing Projects**
+Cloud-native monitoring service for automatically checking endpoint availability, collecting telemetry, and surfacing service health through dashboards and alerts.
+
+**Highlights**
+- Built and containerized a REST service using Python and FastAPI
+- Deployed the application to Google Cloud Run
+- Automated scheduled endpoint health checks
+- Integrated centralized logging, monitoring, and alerting
+- Implemented CI/CD with GitHub Actions and least-privilege IAM
+
+### 🤖 AI/LLM Application — In Progress
+
+**Python | LLMs | [RAG / Agents / Framework] | [Cloud / Database]**
+
+Developing an end-to-end AI application as part of my Full-Stack LLMs coursework at Colorado School of Mines.
+
+**Focus**
+- AI-assisted product development
+- LLM application architecture
+- Evaluation and iterative development
+- Building around a defined user problem
+
+> More details coming as the project develops.
+
+### ⚡ High-Performance & Systems Computing
 
 **C | pthreads | OpenMP | Parallel Computing**
 
-Collection of systems projects exploring performance optimization and parallel execution.
+Systems projects exploring concurrency, parallel execution, and performance optimization.
 
-Projects include:
-- Multithreaded file compression using pthreads
+**Projects**
+- Multithreaded file compression using pthreads and parallel I/O
 - Parallel N-body simulation using OpenMP
-- Performance benchmarking and optimization
+- Performance benchmarking and scalability analysis
 
-________________________________________
+---
 
-🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
-**Languages**
-C++ | C | Python | Java | SQL
+**Languages**  
+Python | C++ | C | SQL | JavaScript | Java
 
-**Systems & Infrastructure**
-Linux | Docker | Git | CI/CD | Networking | Operating Systems
+**AI & Data**  
+PyTorch | Pandas | NumPy | Machine Learning | LLM APIs
 
-**Cloud & Data**
-Google Cloud | AWS | PostgreSQL | Data Pipelines
+**Cloud & Infrastructure**  
+Google Cloud | AWS | Docker | Linux | Git | CI/CD
 
-**Computer Science**
-Algorithms | Distributed Systems | Parallel Computing | Machine Learning
+**Systems**  
+Operating Systems | Distributed Systems | Concurrency | Parallel Computing | Networking
 
-________________________________________
+---
 
-📚 **Learning Goals**:
+## 📚 Currently Exploring
 
-- Distributed systems design
+- LLM application engineering
+- RAG and agentic systems
+- Machine learning infrastructure
+- Distributed systems
+- GPU & high-performance computing
 - Cloud-native architectures
-- Low-latency systems
-- C++ performance optimization
-- Machine learning engineering
 
-________________________________________
+---
 
-**Connect**
+## 🔬 Interests
 
-LinkedIn: https://linkedin.com/in/pratikasarpota
-Email: pratikra03@gmail.com
+I'm interested in the intersection of **AI infrastructure and systems** — including how compute, distributed infrastructure, performance, and resource efficiency shape modern AI applications.
 
+I also enjoy exploring how technical systems can be translated into products that solve meaningful user and business problems.
 
+---
 
+## 🤝 Connect
 
-
-
+**LinkedIn:** [linkedin.com/in/pratikasarpota](https://linkedin.com/in/pratikasarpota)  
+**Email:** pratikra03@gmail.com
